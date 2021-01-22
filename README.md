@@ -8,6 +8,8 @@ Luthrium OS Theme for Openbox WM
 - **Shell** 			: [ZSH 5.8](https://wiki.archlinux.org/index.php/zsh)
 
 
-## :factory: SETUP 
+# :rice_scene: SETUP 
+
+if you are interested in installing this theme on your desktop please follow the steps below
 
 #### Installation
