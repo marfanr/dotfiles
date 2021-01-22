@@ -1,0 +1,28 @@
+# vim: set ft=sxhkdrc:
+# Config By Arfan# Config By Arfan
+
+super + shift + p
+	sh $HOME/scripts/powermenu
+
+super + shift + l
+	sh $HOME/scripts/vpn
+Print
+	/usr/bin/flameshot gui
+
+super + Escape
+    pkill -USR1 -x sxhkd
+
+# pulseaudio controls mute speaker on/off
+super + F9
+    pamixer --toggle-mute
+
+# pulseaudio controls speaker volume up & down
+{super + F12, super + F11}
+    pamixer {--increase 2, --decrease 2}
+
+# dunst
+{super + grave, super + shift + grave}
+    dunstctl {history-pop, close-all}
+
+super + control + shift + grave
+	pkill -9 dunst && dunst &

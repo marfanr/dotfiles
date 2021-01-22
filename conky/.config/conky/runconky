@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+killall conky
+LC_ALL=en_EN.utf-8 conky -c ./main.lua
