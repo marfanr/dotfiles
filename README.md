@@ -5,10 +5,8 @@ Luthrium OS Theme for Openbox WM
 - **OS** 			: [Artix x86_64](https://artixlinux.org/)
 - **WM** 			: [Openbox 3.6.1](http://openbox.org/wiki/Main_Page)
 - **Terminal** 			: [Termite v15](https://wiki.archlinux.org/index.php/termite)
-- **Shell** 			: [zsh 5.8](https://wiki.archlinux.org/index.php/zsh)
+- **Shell** 			: [ZSH 5.8](https://wiki.archlinux.org/index.php/zsh)
 
 
-## INSTALLATION
-
-
+##:snowman: INSTALLATION
 
