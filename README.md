@@ -1,5 +1,5 @@
 # Luthrium OS
-Luthrium OS Theme for OpenboxWM
+Luthrium OS Theme for Openbox WM
 
 ## This is a list of the setups I use on my desktop
 - **OS** 			: [Artix x86_64](https://artixlinux.org/)
