@@ -8,5 +8,6 @@ Luthrium OS Theme for Openbox WM
 - **Shell** 			: [ZSH 5.8](https://wiki.archlinux.org/index.php/zsh)
 
 
-## :snowman: INSTALLATION
+## :factory: SETUP 
 
+#### Installation
