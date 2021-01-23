@@ -59,11 +59,13 @@ if you are interested in installing this theme on your desktop please follow the
 _an automatic installation script is being built, for now you can install it manually using the GNU stow_
 
 - install 
- ```bash
- $ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+
+```bash
+$ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
 
 - uninstall
-  ```bash
-  $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+
+```bash
+$ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
 
 
