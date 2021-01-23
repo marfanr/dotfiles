@@ -32,13 +32,12 @@ if you are interested in installing this theme on your desktop please follow the
 > because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
 
 - ```bash
-  $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd 
+  $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd zsh
 
 - ```bash
   $ yay -S concky-lua 
 
-  Optional
-- ```
-  $ sudo pacman -Sy zsh
+- ```bash
+  $ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ### Installation
