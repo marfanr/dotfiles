@@ -20,11 +20,15 @@ this is theme for openbox window manager
 - **Walpaper** 			: [By WLOP](https://www.wallpaperflare.com/search?wallpaper=WLOP)
 
 ### :corn:  Features
-- Build in with openvpn manager
+- Build in with OpenVPN manager
 - available 3 default scripts
 
 # :rice_scene: SETUP 
 
 if you are interested in installing this theme on your desktop please follow the steps below
+
+#### prerequisite
+
+because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
 
 #### Installation
