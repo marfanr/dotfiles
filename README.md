@@ -1,6 +1,6 @@
 # Luthrium 
 <center>
-	[![](https://img.shields.io/badge/Version-0.0.1-critical)]()
+	[![a](https://img.shields.io/badge/Version-0.0.1-critical)](https://github.com/marfanr/dotfiles)
 </center>
 
 this is theme for the openbox window manager
