@@ -4,7 +4,7 @@
 <a href="https://github.com/marfanr/dotfiles"><img src="https://img.shields.io/badge/Version-0.0.1-critical" /></a>
 </p>
 
-this is theme for the openbox window manager
+this is theme for openbox window manager
 
 <img src="https://raw.githubusercontent.com/marfanr/dotfiles/main/screenshoot/sample1.png" alt="Luthrium Openbox" align="right" width="400px"/>
 
