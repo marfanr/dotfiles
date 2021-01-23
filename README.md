@@ -13,8 +13,8 @@ this is theme for the openbox window manager
 - **Compositor** 		: [Picom vgit-a9977](https://wiki.archlinux.org/index.php/Picom)
 - **Application Launcher** 	: [Rofi 1.6.1](https://wiki.archlinux.org/index.php/Rofi)
 - **Notify Daemon** 		: [Dunst 1.5.0 (2020-07-23)](https://wiki.archlinux.org/index.php/Dunst)
-- **File Manager** 		: [Thunar](https://wiki.archlinux.org/index.php/thunar)
-- **Web Browser** 		: [QuteBrowser](https://wiki.archlinux.org/index.php/Qutebrowser)
+- **File Manager** 		: [Thunar 4.16.2 (Xfce 4.16)](https://wiki.archlinux.org/index.php/thunar)
+- **Web Browser** 		: [QuteBrowser v1.14.1](https://wiki.archlinux.org/index.php/Qutebrowser)
 
 # :rice_scene: SETUP 
 
