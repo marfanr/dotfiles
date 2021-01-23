@@ -7,7 +7,7 @@ the reason I use Openbox is that besides being lightweight, it's also easy to cu
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="left" width="400px" style="padding:20px"/>
 
-<img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample2.png?raw=true" align="left" width="400px" style="padding:20px"/>
+<img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample2.png?raw=true" align="right" width="400px" style="padding:20px"/>
 
 ##### This is a list of the setups I use on my desktop now
 - **OS** 			: [Artix x86_64](https://artixlinux.org/)
