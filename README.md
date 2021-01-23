@@ -2,7 +2,7 @@
 ![version](https://img.shields.io/badge/Version-not_yet_released-blue) ![alpha](https://img.shields.io/badge/-Alpha-red)  
 
 
-thanks for visiting this repository, this is a theme for Openbox window manager <br/>
+thanks for visiting this repository, this is a theme for Openbox window manager. <br/>
 the reason I use Openbox is that besides being lightweight, it's also easy to customize
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px" style="padding:20px"/>
