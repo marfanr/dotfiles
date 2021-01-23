@@ -2,8 +2,8 @@
 ![version](https://img.shields.io/badge/Version-not_yet_released-blue) ![alpha](https://img.shields.io/badge/-Alpha-red)  
 
 
-thanks for visiting this repository, this is theme for openbox window manager \n
-the reason I use openbox is because besides being lightweight, it's also easy to customize
+thanks for visiting this repository, this is a theme for Openbox window manager <br/>
+the reason I use Openbox is that besides being lightweight, it's also easy to customize
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px" style="padding:20px"/>
 
@@ -35,7 +35,7 @@ if you are interested in installing this theme on your desktop please follow the
 
 ### prerequisite
 
-> because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
+> because I use Artix or Arch Linux Distro, so for installation I use Pacman. for other distributions please adjust yourself
 
 - ```bash
   $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd zsh
@@ -51,8 +51,8 @@ if you are interested in installing this theme on your desktop please follow the
 
 ### Installation
 
-> To avoid an errors, before starting the installation process, make sure that on your home
-> directory doesn't have the following folders yet, and make sure you're not using any dotfiles
+> To avoid errors, before starting the installation process, make sure that your home directory doesn't have the following folders yet,
+> and make sure you're not using any dotfiles 
 >
 > - ~/.config/conky
 > - ~/.config/neofetch
@@ -71,7 +71,7 @@ $ git clone https://github.com/marfanr/dotfiles ~/.dotfiles; cd dotfiles
 ```
 
 
-_an automatic installation script is being built, for now you can install it manually using the GNU stow_
+_an automatic installation script is being built, for now, you can install it manually using the GNU stow_
 
 - install 
   ```bash
