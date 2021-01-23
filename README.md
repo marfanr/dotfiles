@@ -29,6 +29,6 @@ if you are interested in installing this theme on your desktop please follow the
 
 ### prerequisite
 
-because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
+> because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
 
 ### Installation
