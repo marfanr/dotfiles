@@ -71,6 +71,6 @@ _an automatic installation script is being built, for now you can install it man
   ```bash
   $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 zsh -t ~
 
-  > 
+ 
 
 
