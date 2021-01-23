@@ -1,8 +1,8 @@
 # Luthrium 
+
+![Version](https://img.shields.io/badge/Conventional%20Commits-0-1.0-red.svg)](https://conventionalcommits.org)
+
 this is theme for the openbox window manager
-
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
-
 
 <img src="https://raw.githubusercontent.com/marfanr/dotfiles/main/screenshoot/sample1.png" alt="Luthrium Openbox" align="right" width="400px"/>
 
