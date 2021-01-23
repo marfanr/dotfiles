@@ -60,10 +60,10 @@ _an automatic installation script is being built, for now you can install it man
 
 - install 
   ```bash
-  $ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+  $ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 zsh -t ~
 
 - uninstall
   ```bash
-  $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+  $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 zsh -t ~
 
 
