@@ -1,6 +1,5 @@
 # Luthrium 
 
-![Version](https://img.shields.io/badge/Conventional%20Commits-0-1.0-red.svg)](https://conventionalcommits.org)
 
 this is theme for the openbox window manager
 
