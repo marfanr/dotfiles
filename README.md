@@ -7,6 +7,9 @@ Luthrium OS Theme for Openbox WM
 - **Terminal** 			: [Termite v15](https://wiki.archlinux.org/index.php/termite)
 - **Shell** 			: [ZSH 5.8](https://wiki.archlinux.org/index.php/zsh)
 - **Shortcut Daemon** 		: [SXHKD 0.6.2](https://wiki.archlinux.org/index.php/Sxhkd)
+- **Panel** 			: [Tint2 16.7](https://wiki.archlinux.org/index.php/tint2)
+- **Compositor** 		: [Picom vgit-a9977](https://wiki.archlinux.org/index.php/Picom)
+- **Menu** 			: [Rofi 1.6.1](https://wiki.archlinux.org/index.php/Rofi)
 
 # :rice_scene: SETUP 
 
