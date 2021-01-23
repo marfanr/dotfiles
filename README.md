@@ -2,6 +2,7 @@
 this is theme for openbox window manager
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px"/>
+
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample2.png?raw=true" align="right" width="400px" />
 
 ##### This is a list of the setups I use on my desktop now
