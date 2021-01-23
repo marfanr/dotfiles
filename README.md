@@ -11,7 +11,10 @@ this is theme for the openbox window manager
 - **Shortcut Daemon** 		: [SXHKD 0.6.2](https://wiki.archlinux.org/index.php/Sxhkd)
 - **Panel** 			: [Tint2 16.7](https://wiki.archlinux.org/index.php/tint2)
 - **Compositor** 		: [Picom vgit-a9977](https://wiki.archlinux.org/index.php/Picom)
-- **Menu** 			: [Rofi 1.6.1](https://wiki.archlinux.org/index.php/Rofi)
+- **Application Launcher** 	: [Rofi 1.6.1](https://wiki.archlinux.org/index.php/Rofi)
+- **Notify Daemon** 		: [Dunst 1.5.0 (2020-07-23)](https://wiki.archlinux.org/index.php/Dunst)
+- **File Manager** 		: [Thunar](https://wiki.archlinux.org/index.php/thunar)
+- **Web Browser** 		: [QuteBrowser](https://wiki.archlinux.org/index.php/Qutebrowser)
 
 # :rice_scene: SETUP 
 
