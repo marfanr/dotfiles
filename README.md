@@ -1,7 +1,7 @@
 <p align="center" style="padding: 0px 10px">
 	<a href="https://github.com/marfanr/dotfiles"><img src="https://images.cooltext.com/5498107.png" width="300px" alt="luthrium" /></a><br/>
 	this is theme for openbox window manager <br/>
-	![version](https://img.shields.io/badge/version-0.0.5-green)
+![version](https://img.shields.io/badge/version-0.0.5-green)
 </p>
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px" style="padding:20px"/>
