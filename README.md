@@ -41,3 +41,6 @@ if you are interested in installing this theme on your desktop please follow the
   $ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 ### Installation
+
+> To avoid errors, before starting the installation process, make sure that the ~ / 
+> .config directory doesn't have the following folders yet, and make sure you're not using any dotfiles
