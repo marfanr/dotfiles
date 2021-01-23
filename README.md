@@ -31,6 +31,8 @@ the reason I use openbox is because besides being lightweight, it's also easy to
 
 if you are interested in installing this theme on your desktop please follow the steps below
 
+> I hope you understand very well what the Widow Manager is and how to use it
+
 ### prerequisite
 
 > because I use Artix or Arch Linux Distro, so for installation I use pacman. for other distributions please adjust yourself
