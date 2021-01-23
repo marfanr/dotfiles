@@ -21,7 +21,7 @@ this is theme for openbox window manager
 
 ### :corn:  Features
 - Build in with OpenVPN manager
-- available 3 default scripts
+- Available Power Menu
 
 # :rice_scene: SETUP 
 
