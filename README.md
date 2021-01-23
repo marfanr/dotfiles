@@ -33,12 +33,15 @@ if you are interested in installing this theme on your desktop please follow the
 
 - ```bash
   $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd zsh
+  ```
 
 - ```bash
   $ yay -S concky-lua 
+  ```
 
 - ```bash
   $ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  ```
 
 ### Installation
 
@@ -59,6 +62,7 @@ if you are interested in installing this theme on your desktop please follow the
 first of all clone this repository
 ```bash
 $ git clone https://github.com/marfanr/dotfiles ~/.dotfiles; cd dotfiles
+```
 
 
 _an automatic installation script is being built, for now you can install it manually using the GNU stow_
@@ -66,11 +70,12 @@ _an automatic installation script is being built, for now you can install it man
 - install 
   ```bash
   $ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 zsh -t ~
+  ```
 
 - uninstall
   ```bash
   $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 zsh -t ~
-
+  ```
  
 
 
