@@ -42,8 +42,19 @@ if you are interested in installing this theme on your desktop please follow the
 
 ### Installation
 
-> To avoid an errors, before starting the installation process, make sure that the ~ / 
-> .config directory doesn't have the following folders yet, and make sure you're not using any dotfiles
+> To avoid an errors, before starting the installation process, make sure that on your home
+> directory doesn't have the following folders yet, and make sure you're not using any dotfiles
+>
+> - ~/.config/conky
+> - ~/.config/neofetch
+> - ~/.config dunst
+> - ~/.config/sxhkd
+> - ~/.config/nitrogen
+> - ~/.config/thunar
+> - ~/.config/termite
+> - ~/.config/picom
+> - ~/.themes
+> - ~/.scripts
 
 __an automatic installation script is being built, for now you can install it manually using the GNU stow __
 
