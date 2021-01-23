@@ -38,7 +38,7 @@ if you are interested in installing this theme on your desktop please follow the
 > because I use Artix or Arch Linux Distro, so for installation I use Pacman. for other distributions please adjust yourself
 
 - ```bash
-  $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd zsh
+  $ sudo pacman -Sy git openbox tint2 nitrogen rofi stow thunar neofetch openvpn termite dunst sxhkd zsh
   ```
 
 - ```bash
