@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://images.cooltext.com/5498107.png" width="300px" />
+	<img src="https://images.cooltext.com/5498107.png" width="300px" /> <r/>
 	this is theme for openbox window manager
 </p>
 
