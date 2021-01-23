@@ -1,7 +1,7 @@
 # Luthrium 
 
 <p align="center">
-<a href="https://github.com/marfanr/dotfiles"><img src="https://img.shields.io/badge/Under Maintenance-critical" /></a>
+<a href="https://github.com/marfanr/dotfiles"><img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true"/></a>
 </p>
 
 this is theme for openbox window manager
