@@ -1,7 +1,7 @@
 # Luthrium 
 this is theme for openbox window manager
 
-<img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right"/>
+<img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px"/>
 
 ##### This is a list of the setups I use on my desktop now
 - **OS** 			: [Artix x86_64](https://artixlinux.org/)
