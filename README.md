@@ -56,7 +56,7 @@ if you are interested in installing this theme on your desktop please follow the
 > - ~/.themes
 > - ~/.scripts
 
-__an automatic installation script is being built, for now you can install it manually using the GNU stow __
+_an automatic installation script is being built, for now you can install it manually using the GNU stow_
 
 - install 
  ```bash
