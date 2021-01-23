@@ -1,5 +1,5 @@
 <a href="https://github.com/marfanr/dotfiles"><img src="https://images.cooltext.com/5498107.png" width="300px" alt="luthrium" /></a><br/>
-![version](https://img.shields.io/badge/version-0.0.5-green) ![alpha](https://img.shields.io/badge/version-0.0.5-green)
+![version](https://img.shields.io/badge/version-0.0.5-green) ![alpha](https://img.shields.io/badge/-Alpha-red)  
 
 
 this is theme for openbox window manager <br/>
