@@ -1,6 +1,9 @@
 # Luthrium 
 this is theme for the openbox window manager
 
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+
 <img src="https://raw.githubusercontent.com/marfanr/dotfiles/main/screenshoot/sample1.png" alt="Luthrium Openbox" align="right" width="400px"/>
 
 ##### This is a list of the setups I use on my desktop now
