@@ -45,7 +45,14 @@ if you are interested in installing this theme on your desktop please follow the
 > To avoid an errors, before starting the installation process, make sure that the ~ / 
 > .config directory doesn't have the following folders yet, and make sure you're not using any dotfiles
 
-_ an automatic installation script is being built, for now you can install it manually using the GNU stow _
+__an automatic installation script is being built, for now you can install it manually using the GNU stow __
 
-`` bash
+- install 
+ ```bash
+ $ stow  conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+
+- uninstall
+  ```bash
+  $ stow -D conky dunst neofetch nitrogen openbox picom sxhkd termite thunar themes scripts  tint2 -t ~
+
 
