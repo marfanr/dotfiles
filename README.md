@@ -16,6 +16,11 @@ this is theme for openbox window manager
 - **File Manager** 		: [Thunar 4.16.2 (Xfce 4.16)](https://wiki.archlinux.org/index.php/thunar)
 - **Web Browser** 		: [QuteBrowser v1.14.1](https://wiki.archlinux.org/index.php/Qutebrowser)
 - **Walpaper** 			: [By WLOP](https://www.wallpaperflare.com/search?wallpaper=WLOP)
+
+### :corn:  Features
+- Build in with openvpn manager
+- available 3 default scripts
+
 # :rice_scene: SETUP 
 
 if you are interested in installing this theme on your desktop please follow the steps below
