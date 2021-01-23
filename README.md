@@ -1,8 +1,9 @@
 # Luthrium 
+<center>
+	![](https://img.shields.io/badge/Version-0.0.1-critical)
+</center>
+
 this is theme for the openbox window manager
-
-[![Conve](https://img.shields.io/badge/Version-0.0.1-critical)](https://conventionalcommits.org)
-
 
 <img src="https://raw.githubusercontent.com/marfanr/dotfiles/main/screenshoot/sample1.png" alt="Luthrium Openbox" align="right" width="400px"/>
 
