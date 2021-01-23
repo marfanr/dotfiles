@@ -1,8 +1,7 @@
 <p align="center">
 	<img src="https://images.cooltext.com/5498107.png" width="300px" />
+	this is theme for openbox window manager
 </p>
-
-this is theme for openbox window manager
 
 <img src="https://github.com/marfanr/dotfiles/blob/main/screenshot/sample1.png?raw=true" align="right" width="400px" style="padding:20px"/>
 
