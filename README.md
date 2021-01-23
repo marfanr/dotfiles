@@ -56,9 +56,10 @@ if you are interested in installing this theme on your desktop please follow the
 > - ~/.themes
 > - ~/.scripts
 
-first clone this repository
+first of all clone this repository
 ```bash
 $ git clone https://github.com/marfanr/dotfiles ~/.dotfiles; cd dotfiles
+
 
 _an automatic installation script is being built, for now you can install it manually using the GNU stow_
 
