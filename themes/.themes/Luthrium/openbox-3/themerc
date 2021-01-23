@@ -30,8 +30,8 @@ window.label.text.justify: Center
 
 # Active window
 window.active.title.bg: Raised Gradient  Pyramid 
-window.active.title.bg.color: #F53D67
-window.active.title.bg.colorTo: #D84D5F
+window.active.title.bg.color: #151921
+window.active.title.bg.colorTo: #151921
 
 window.active.label.bg: Parentrelative
 window.active.label.text.color: #FFFFFF 
@@ -43,7 +43,7 @@ window.active.grip.bg: Raised
 window.active.grip.bg.color: #DC4A5B
 
 window.active.button.unpressed.bg: Flat Solid 
-window.active.button.unpressed.bg.color: #F53D67
+window.active.button.unpressed.bg.color: #151921
 window.active.button.unpressed.image.color: #ffffff
 
 window.active.button.unpressed.padding = 90px
@@ -86,21 +86,20 @@ window.active.button.toggled.hover.image.color: #ffffff
 
 # Inactive windows
 window.inactive.title.bg: Raised  
-window.inactive.title.bg.color: #FFFFFF
+window.inactive.title.bg.color: #33373F
 
 window.inactive.label.bg: Parentrelative
-window.inactive.label.text.color: #000000
+window.inactive.label.text.color: #eeeeee
 
 window.inactive.handle.bg: Raised
-window.inactive.handle.bg.color: #000000 
+window.inactive.handle.bg.color: #282A36 
 
 window.inactive.grip.bg: Raised
 window.inactive.grip.bg.color: #000000 
 
 window.inactive.button.unpressed.bg: Flat  
-window.inactive.button.unpressed.bg.color: #FFFFFF 
-window.inactive.button.unpressed.bg.border.color: #000000
-window.inactive.button.unpressed.image.color: #000000
+window.inactive.button.unpressed.bg.color: #33373F 
+window.inactive.button.unpressed.image.color: #eeeeee
 
 window.inactive.button.pressed.bg: Flat Gradient Vertical Border
 window.inactive.button.pressed.bg.color: #efebe7

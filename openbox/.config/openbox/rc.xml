@@ -301,20 +301,14 @@
     <!-- Keybindings for window switching -->
     <keybind key="A-Tab">
       <action name="NextWindow">
-        <finalactions>
-          <action name="Focus"/>
-          <action name="Raise"/>
-          <action name="Unshade"/>
-        </finalactions>
+        <dialog>icons</dialog>
+        <bar>yes</bar>
       </action>
     </keybind>
     <keybind key="A-S-Tab">
       <action name="PreviousWindow">
-        <finalactions>
-          <action name="Focus"/>
-          <action name="Raise"/>
-          <action name="Unshade"/>
-        </finalactions>
+        <dialog>icons</dialog>
+        <bar>yes</bar>
       </action>
     </keybind>
     <keybind key="C-A-Tab">
@@ -376,7 +370,7 @@
       <mousebind button="A-Left" action="Click">
         <action name="Unshade"/>
       </mousebind>
-      <mousebind button="A-Left" action="Drag">
+      <mousebind button="W-Left" action="Drag">
         <action name="Move"/>
       </mousebind>
       <mousebind button="A-Right" action="Press">
