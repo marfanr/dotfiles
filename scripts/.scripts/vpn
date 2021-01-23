@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+
+VPNDIR="$HOME/vpn/"
+dir="$HOME/scripts/"
+cd $VPNDIR
+CMD=$( echo -en $(ls) | tr " " "\n" | rofi -dmenu -p ' Vpn Manager' -theme Vpn -l 5 )
+
+if [[ $CMD ]]
+then	
+	CMDA=$VPNDIR$CMD
+	notify-send "starting vpn $CMD"
+	termite -e "pkexec openvpn $CMDA "	
+fi
+# nohup
+

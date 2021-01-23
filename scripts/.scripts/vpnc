@@ -1,0 +1,7 @@
+#!/usr/bin/sh
+
+cd $2
+echo $(pwd)
+pkexec openvpn $1 &
+sleep 5 
+

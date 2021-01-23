@@ -1,0 +1,25 @@
+#!/usr/bin/sh
+
+OPT="\n\n\n"
+MENU=$(echo -e $OPT | rofi -modi drun -show drun -dmenu -p 'Power Menu' -theme PowerMenu  )
+
+case $MENU in
+	"" )
+		loginctl poweroff
+		exit 0
+	;;
+	"" )
+		loginctl reboot 
+		exit 0
+	;;
+	"" )
+		kill -9 -1
+		exit 0
+	;;
+	"" )
+		loginctl hibernate
+		exit 0
+	;;
+esac
+
+exit 0
