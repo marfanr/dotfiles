@@ -2,10 +2,10 @@
 # Config By Arfan# Config By Arfan
 
 super + shift + p
-	sh $HOME/scripts/powermenu
+	sh $HOME/.scripts/powermenu
 
 super + shift + l
-	sh $HOME/scripts/vpn
+	sh $HOME/.scripts/vpn
 Print
 	/usr/bin/flameshot gui
 
