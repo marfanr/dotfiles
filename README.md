@@ -20,7 +20,7 @@ this is theme for the openbox window manager
 - **Notify Daemon** 		: [Dunst 1.5.0 (2020-07-23)](https://wiki.archlinux.org/index.php/Dunst)
 - **File Manager** 		: [Thunar 4.16.2 (Xfce 4.16)](https://wiki.archlinux.org/index.php/thunar)
 - **Web Browser** 		: [QuteBrowser v1.14.1](https://wiki.archlinux.org/index.php/Qutebrowser)
-
+- **Walpaper** 			: [By WLOP](https://www.wallpaperflare.com/search?wallpaper=WLOP)
 # :rice_scene: SETUP 
 
 if you are interested in installing this theme on your desktop please follow the steps below
