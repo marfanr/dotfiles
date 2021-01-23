@@ -42,5 +42,10 @@ if you are interested in installing this theme on your desktop please follow the
 
 ### Installation
 
-> To avoid errors, before starting the installation process, make sure that the ~ / 
+> To avoid an errors, before starting the installation process, make sure that the ~ / 
 > .config directory doesn't have the following folders yet, and make sure you're not using any dotfiles
+
+_ an automatic installation script is being built, for now you can install it manually using the GNU stow _
+
+`` bash
+
