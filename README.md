@@ -34,7 +34,7 @@ if you are interested in installing this theme on your desktop please follow the
 ```bash
 $ sudo pacman -Sy openbox tint2 nitrogen rofi stow thunar neofetch openvpn 
 
-`` bash
+```bash
 $ yay -S concky-lua
 
 ### Installation
